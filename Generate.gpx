@@ -1,18 +1,4 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <wpt lat="40.39" lon="-3.62">
-    <name>VictorTest</name>
-    <category>Rendering-test</category>
-    <extensions>
-        <zoom>13</zoom>
-        <zoomScale>0.5</zoomScale>
-        <!--
-        <width>1366</width>
-        <height>768</height>
-        <renderingName>default</renderingName>
-        <renderingProperties>
-        nightMode=false, appMode=default, noPolygons=false, hmRendered=false</renderingProperties>
-      -->
-    </extensions>
-  </wpt>
+  
 </gpx>
