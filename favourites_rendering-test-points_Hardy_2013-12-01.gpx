@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.0621687" lon="7.3562649">
+    <name>Glaciers</name>
+    <desc>Tests several adjacent glaciers both day and night view</desc>
+    <cmt>Switzerland_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.027662" lon="12.0953237">
+    <name>Bridges</name>
+    <desc>Many bridges in this vicinity for all highway types from motorway down to footways. Also motorway tunnel nearby.</desc>
+    <cmt>Germany_bayern_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="21.6978073" lon="-157.973938">
+    <name>Tracktypes</name>
+    <desc>Test use of tracktype tag, there are different types visible in this area</desc>
+    <cmt>Us_hawaii_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="32.249863" lon="-110.9267494">
+    <name>Downtown</name>
+    <desc>Test separation and possible melting into each other of many close-together small residential roads, test also brightness of such a dense area in night view</desc>
+    <cmt>Us_arizona_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="32.4417798" lon="-110.8645105">
+    <name>Forest with different shaders</name>
+    <desc>Test the visibility of several forest and NR shaders as well as wilderness boundaries present at the same time, make sure this just visible but not disturbing</desc>
+    <cmt>Us_arizona_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="41.225702" lon="13.5109515">
+    <name>Beaches</name>
+    <desc>See beaches and beach names in this area. Also some primary tunnels.</desc>
+    <cmt>Italy_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="36.8749762" lon="-2.0002625">
+    <name>NR shader over water</name>
+    <desc>Nature reserve over water and land, make sure it is just about visible but not disturbing.</desc>
+    <cmt>Spain_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="36.0124943" lon="-5.6043876">
+    <name>Medieval town center</name>
+    <desc>Documents the melting of very narrow white roads at high zooms. Crucial for (visibility vs. melting) compromise selection of road width.</desc>
+    <cmt>Spain_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="33.0091463" lon="-113.7761469">
+    <name>Military and NR shader</name>
+    <desc>See military and NR shader close by. This military shader is a special case with holes.</desc>
+    <cmt>Us_arizona_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="24.6009552" lon="-81.7009172">
+    <name>Islands NR military</name>
+    <desc>See military shader over land and water</desc>
+    <cmt>Us_florida_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.7297129" lon="11.7159639">
+    <name>Military and forest</name>
+    <desc>Big military training area, see military shader covering forest areas and other features.</desc>
+    <cmt>Germany_bayern_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="41.4156472" lon="12.7653956">
+    <name>Military and forest 2</name>
+    <desc>See military shader covering forest area.</desc>
+    <cmt>Italy_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.5572545" lon="12.2851161">
+    <name>Alpine hiking trails</name>
+    <desc>See alpine SAC scaled paths, Touring view and Alpine hiking setting must be selected (pedestrian mode)</desc>
+    <cmt>Austria_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="41.9016291" lon="12.5205031">
+    <name>Cemetery</name>
+    <desc>Check cemetery shader</desc>
+    <cmt>Italy_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="33.8168735" lon="-109.293753">
+    <name>All forest</name>
+    <desc>Check that in an "all forest" (green) area map is still useable and details are visible</desc>
+    <cmt>Us_arizona_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="25.1667965" lon="-80.9207621">
+    <name>Swampland</name>
+    <desc>Check marsh shader</desc>
+    <cmt>Us_florida_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="45.5642375" lon="10.6135208">
+    <name>Lake ferries admin</name>
+    <desc>See big lake, ferry routes, and admin boundaries on it</desc>
+    <cmt>Italy_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="36.0866855" lon="-115.1548082">
+    <name>Airport and terminals</name>
+    <desc>See an airport with runways, aprons, terminal buildings, gates</desc>
+    <cmt>Us_nevada_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="32.6609203" lon="-109.8679913">
+    <name>All forest 2</name>
+    <desc>Check that in an "all forest" (green) area map is still useable and details are visible</desc>
+    <cmt>Us_arizona_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="31.9989319" lon="-110.7508163">
+    <name>SRTM noise</name>
+    <desc>See noise of SRTM lines in an evenly sloped area, should probably be smoothened</desc>
+    <cmt>Us_nevada_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="35.6644496" lon="-115.2229183">
+    <name>Desert</name>
+    <desc>See desert rendering</desc>
+    <cmt>Us_nevada_northamerica.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="48.1359097" lon="11.5744803">
+    <name>City center</name>
+    <desc>Check a city center with many shops, ped areas, roads, etc.</desc>
+    <cmt>Germany_bayern_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="41.9883322" lon="12.4891">
+    <name>Highway types</name>
+    <desc>See most different highway types, check how they are rendered in different renderers, check also color dimming in Touring view car night mode</desc>
+    <cmt>Italy_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="48.0276313" lon="11.6578022">
+    <name>Motorway intersection</name>
+    <desc>See a big motorway intersection to check the correct order and width of motorway vs. motorway-link</desc>
+    <cmt>Germany_bayern_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.4496224" lon="11.0695639">
+    <name>Winter ski slopes</name>
+    <desc>See some ski slopes and lifts for testing winter+ski renderer and the World_ski map</desc>
+    <cmt>Germany_bayern_europe.obf, World-ski.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="0.00" lon="0.00">
+    <name>0-0</name>
+    <desc>lat=0 lon=0 for testing world overview</desc>
+    <cmt>World_basemap.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="40.00" lon="0.00">
+    <name>40-0</name>
+    <desc>Use lat=40 lon=0 for a zoom-in journey to test successive appearance of countries, regions, roads, and more detail as you zoom in</desc>
+    <cmt>World_basemap.obf, Spain_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="41.9078026" lon="12.4748383">
+    <name>Big city</name>
+    <desc>See a big city and test overall appearance and render performance. Point chosen is likely the maximum amount of detail and worst case performance to be encountered anywhere.</desc>
+    <cmt>Italy_europe.obf</cmt>
+    <category>Rendering-test</category>
+  </wpt>
+</gpx>
