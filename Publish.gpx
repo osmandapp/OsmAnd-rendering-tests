@@ -5,6 +5,7 @@
     <category>Rendering-test</category>
     <extensions>
         <zoom>13</zoom>
+        <maps>Spain_europe_2</maps>
         <zoomScale>0.5</zoomScale>
         <!--
         <width>1366</width>
