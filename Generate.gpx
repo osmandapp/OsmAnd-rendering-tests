@@ -192,6 +192,15 @@
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="41.9078026" lon="12.4748383">
+    <name>Big city</name>
+    <desc>See a big city and test overall appearance and render performance. Point chosen is likely the maximum amount of detail and worst case performance to be encountered anywhere.</desc>
+    <extensions>
+    	<maps>Italy_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <!-- Temporarily disable world maps 
   <wpt lat="47.4496224" lon="11.0695639">
     <name>Winter ski slopes</name>
     <desc>See some ski slopes and lifts for testing winter+ski renderer and the World_ski map</desc>
@@ -216,13 +225,6 @@
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
-  <wpt lat="41.9078026" lon="12.4748383">
-    <name>Big city</name>
-    <desc>See a big city and test overall appearance and render performance. Point chosen is likely the maximum amount of detail and worst case performance to be encountered anywhere.</desc>
-    <extensions>
-    	<maps>Italy_europe_2</maps>
-	</extensions>
-    <category>Rendering-test</category>
-  </wpt>
-
+  
+-->
 </gpx>
