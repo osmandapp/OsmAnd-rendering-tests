@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
-   width="1366" height="768" zoomScale="0" zoom="14"  renderingName="default" renderingProperties="noPolygons=false">
+   width="1366" height="768" zoomScale="0" zoom="14"  renderingName="default" renderingProperties="">
 
 <!-- Suggestion for file name convention for created .pngs:
 	(wpt-name)_z(zoom)_[appMode]_[night]_[magnification]_[other-switches].png
