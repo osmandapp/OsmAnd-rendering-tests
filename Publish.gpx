@@ -275,5 +275,15 @@
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="40.00" lon="0.00">
+    <name>40-0</name>
+    <desc>UniRS: Use lat=40 lon=0 for a zoom-in journey to test successive appearance of countries, regions, roads, and more detail as you zoom in</desc>
+	<!-- zooms and parameters: z03, z04, z05, z06, z07, z08, z09, z10, z11, z12, z13, z06_night, z07_night, z08_night, z09_night, z10_night, z11_night, z12_night, z13_night -->
+    <extensions>
+	<maps>World_basemap_2, Spain_europe_2</maps>
+	<render>UniRS</render>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
 
 </gpx>
