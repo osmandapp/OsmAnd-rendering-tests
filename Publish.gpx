@@ -5,7 +5,34 @@
 <!-- Suggestion for file name convention for created .pngs:
 	(wpt-name)_z(zoom)_[appMode]_[night]_[magnification]_[other-switches].png
 -->
-
+<extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>            
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="http://builder.osmand.net:8080/view/OsmAnd%20Builds/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME">
+                  <img src="http://builder.osmand.net:8080/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
   <wpt lat="40.39" lon="-3.62">
     <name>VictorTest</name>
     <category>Rendering-test</category>

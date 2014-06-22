@@ -9,9 +9,9 @@
       <!-- div class="image-gallery" -->   
       <table>
         <tr>
-            <th>Default</th>
-            <th>UniRS</th> 
+            <th>Default</th>            
             <th>Default-night</th>
+            <th>UniRS</th> 
             <th>UniRS-night</th>
         </tr>
         <ROW>
@@ -19,10 +19,12 @@
           <ROW_ELEMENT>
           <td>
                 <a href="http://builder.osmand.net:8080/view/OsmAnd%20Builds/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME">
-                  <img src="http://builder.osmand.net:8080/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME" width="178" height="100" alt=""/></a>
+                  <img src="http://builder.osmand.net:8080/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME" width="444" height="250" alt=""/></a>
           </td>
           </ROW_ELEMENT>
-          <p>$DESCRIPTION</p>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
         </tr>
         </ROW>                    
       </table>
