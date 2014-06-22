@@ -28,6 +28,7 @@
     <desc>Tests several adjacent glaciers both day and night view</desc>
 	<!-- zooms and parameters: z14, z14_night -->
     <extensions>
+        <zoom>14</zoom>
 	<maps>Switzerland_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
@@ -35,8 +36,8 @@
   <wpt lat="49.027662" lon="12.0953237">
     <name>Bridges</name>
     <desc>Many bridges in this vicinity for all highway types from motorway down to footways. Also motorway tunnel nearby.</desc>
-	<!-- zooms and parameters: z15 -->
     <extensions>
+        <zoom>15</zoom>
 	<maps>Germany_bayern_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
