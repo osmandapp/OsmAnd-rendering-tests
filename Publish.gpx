@@ -28,24 +28,26 @@
     <desc>Tests several adjacent glaciers both day and night view</desc>
 	<!-- zooms and parameters: z14, z14_night -->
     <extensions>
+        <zoom>14</zoom>
 	<maps>Switzerland_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
+  <!--
   <wpt lat="49.027662" lon="12.0953237">
     <name>Bridges</name>
     <desc>Many bridges in this vicinity for all highway types from motorway down to footways. Also motorway tunnel nearby.</desc>
-	<!-- zooms and parameters: z15 -->
     <extensions>
+        <zoom>15</zoom>
 	<maps>Germany_bayern_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
-  </wpt>
+  </wpt> -->
   <wpt lat="21.6978073" lon="-157.973938">
     <name>Tracktypes</name>
     <desc>Test use of tracktype tag, there are different types visible in this area</desc>
 	<!-- zooms and parameters: z15 -->
-    <extensions>
+    <extensions>
 	<maps>Us_hawaii_northamerica_2</maps>
 	</extensions>
     <category>Rendering-test</category>
@@ -272,6 +274,16 @@
 	<!-- zooms and parameters: z03, z04, z05, z06, z07, z08, z09, z10, z11, z12, z13, z06_night, z07_night, z08_night, z09_night, z10_night, z11_night, z12_night, z13_night -->
     <extensions>
 	<maps>World_basemap_2, Spain_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="40.00" lon="0.00">
+    <name>40-0</name>
+    <desc>UniRS: Use lat=40 lon=0 for a zoom-in journey to test successive appearance of countries, regions, roads, and more detail as you zoom in</desc>
+	<!-- zooms and parameters: z03, z04, z05, z06, z07, z08, z09, z10, z11, z12, z13, z06_night, z07_night, z08_night, z09_night, z10_night, z11_night, z12_night, z13_night -->
+    <extensions>
+	<maps>World_basemap_2, Spain_europe_2</maps>
+	<render>UniRS</render>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
