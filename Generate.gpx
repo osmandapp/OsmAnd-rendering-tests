@@ -37,6 +37,7 @@
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
+  <!--
   <wpt lat="49.027662" lon="12.0953237">
     <name>Bridges</name>
     <desc>Many bridges in this vicinity for all highway types from motorway down to footways. Also motorway tunnel nearby.</desc>
@@ -254,5 +255,5 @@
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
-  
+-->  
 </gpx>
