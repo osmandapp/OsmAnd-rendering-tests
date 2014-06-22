@@ -20,7 +20,7 @@
           <ROW_ELEMENT>
           <td>
                 <a href="http://builder.osmand.net:8080/view/OsmAnd%20Builds/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME">
-                  <img src="http://builder.osmand.net:8080/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME" width="178" height="100" alt=""></a>
+                  <img src="http://builder.osmand.net:8080/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME" width="178" height="100" alt=""/></a>
           </td>
           </ROW_ELEMENT>
           <p>$DESCRIPTION</p>
