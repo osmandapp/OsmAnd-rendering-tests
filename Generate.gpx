@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="13,14" renderingProperties=";nightMode=true" renderingName="default,UniRS">
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="13" renderingProperties=";nightMode=true" renderingName="default,UniRS">
+  <extensions>
+    <html_gen>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>
+            <th>UniRS</th> 
+            <th>Default-night</th>
+            <th>UniRS-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="http://builder.osmand.net:8080/view/OsmAnd%20Builds/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME">
+                  <img src="http://builder.osmand.net:8080/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME" width="178" height="100" alt=""></a>
+          </td>
+          </ROW_ELEMENT>
+          <p>$DESCRIPTION</p>
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+    </html_gen>
+  </extensions>
   <wpt lat="46.0621687" lon="7.3562649">
     <name>Glaciers</name>
     <desc>Tests several adjacent glaciers both day and night view</desc>
