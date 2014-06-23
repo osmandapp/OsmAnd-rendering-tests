@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="18" renderingProperties=";nightMode=true" renderingName="default,UniRS">  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>            
+            <th>Default-night</th>
+            <th>UniRS</th> 
+            <th>UniRS-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME">
+                  <img src="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  <wpt lat="46.0621687" lon="7.3562649">
+    <name>Glaciers</name>
+    <desc>Tests several adjacent glaciers both day and night view</desc>
+    <extensions>
+    	<maps>Switzerland_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <!--
+  <wpt lat="49.027662" lon="12.0953237">
+    <name>Bridges</name>
+    <desc>Many bridges in this vicinity for all highway types from motorway down to footways. Also motorway tunnel nearby.</desc>
+    <extensions>
+    	<maps>Germany_bayern_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt> -->
+  <wpt lat="21.6978073" lon="-157.973938">
+    <name>Tracktypes</name>
+    <desc>Test use of tracktype tag, there are different types visible in this area</desc>
+    <extensions>
+    	<maps>Us_hawaii_northamerica_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="32.249863" lon="-110.9267494">
+    <name>Downtown</name>
+    <desc>Test separation and possible melting into each other of many close-together small residential roads, test also brightness of such a dense area in night view</desc>
+    <extensions>
+    	<maps>Us_arizona_northamerica_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+
+</gpx>
