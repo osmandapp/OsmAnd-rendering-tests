@@ -243,9 +243,10 @@
   </wpt>
   <wpt lat="53.5414" lon="10.0025">
     <name>Cycleway networks</name>
-    <desc></desc>
+    <desc>Cycleway networks, bicycle mode, zoom 15</desc>
     <extensions>
 	<maps>Germany_hamburg_europe_2</maps>
+        <zoom>15</zoom>
 	<renderingProperties>appMode=bicycle</renderingProperties>
     </extensions>
     <category>Rendering-test</category>
