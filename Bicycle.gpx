@@ -41,7 +41,7 @@
     <category>Rendering-test</category>
   </wpt>
 
-  <wpt lat="53.5414" lon="5.0468">
+  <wpt lat="52.2358" lon="4.8446">
     <name>Neth-overview 11</name>
     <desc>Netherlands overview zoom 11</desc>
     <extensions>
@@ -50,7 +50,7 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
-    <wpt lat="53.5414" lon="5.0468">
+    <wpt lat="52.2358" lon="4.8446">
     <name>Neth-overview 12</name>
     <desc>Netherlands overview zoom 12</desc>
     <extensions>
@@ -59,7 +59,7 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
-  <wpt lat="53.5414" lon="5.0468">
+  <wpt lat="52.2358" lon="4.8446">
     <name>Neth-overview 13</name>
     <desc>Netherlands overview zoom 13</desc>
     <extensions>
