@@ -247,7 +247,7 @@
     <extensions>
 	<maps>Germany_hamburg_europe_2</maps>
         <zoom>15</zoom>
-	<renderingProperties>appMode=bicycle</renderingProperties>
+	<renderingProperties>appMode=bicycle;nightMode=true,appMode=bicycle</renderingProperties>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
