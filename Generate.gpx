@@ -39,7 +39,7 @@
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
-  <!--
+
   <wpt lat="49.027662" lon="12.0953237">
     <name>Bridges</name>
     <desc>Many bridges in this vicinity for all highway types from motorway down to footways. Also motorway tunnel nearby.</desc>
@@ -47,7 +47,7 @@
     	<maps>Germany_bayern_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
-  </wpt> -->
+  </wpt> 
   <wpt lat="21.6978073" lon="-157.973938">
     <name>Tracktypes</name>
     <desc>Test use of tracktype tag, there are different types visible in this area</desc>
@@ -239,16 +239,6 @@
     <extensions>
     	<maps>Germany_bayern_europe_2, World-ski_2</maps>
 	</extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="53.5414" lon="10.0025">
-    <name>Cycleway networks</name>
-    <desc>Cycleway networks, bicycle mode, zoom 15</desc>
-    <extensions>
-	<maps>Germany_hamburg_europe_2</maps>
-        <zoom>15</zoom>
-	<renderingProperties>appMode=bicycle;nightMode=true,appMode=bicycle</renderingProperties>
-    </extensions>
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="0.00" lon="0.00">
