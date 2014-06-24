@@ -241,6 +241,15 @@
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="53.5414" lon="10.0025">
+    <name>Cycleway networks</name>
+    <desc></desc>
+    <extensions>
+	<maps>Germany_hamburg_europe_2</maps>
+	<renderingProperties>appMode=bicycle</renderingProperties>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
   <wpt lat="0.00" lon="0.00">
     <name>0-0</name>
     <desc>lat=0 lon=0 for testing world overview</desc>
