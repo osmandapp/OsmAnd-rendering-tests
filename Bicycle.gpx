@@ -32,7 +32,7 @@
       </html> 
   </extensions>
   <wpt lat="53.5414" lon="10.0025">
-    <name>Cycleway networks</name>
+    <name>Cycleway-networks</name>
     <desc>Cycleway networks, bicycle mode, zoom 15</desc>
     <extensions>
 	<maps>Germany_hamburg_europe_2</maps>
@@ -40,4 +40,61 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
+
+  <wpt lat="53.5414" lon="5.0468">
+    <name>Neth-overview 11</name>
+    <desc>Netherlands overview zoom 11</desc>
+    <extensions>
+	<maps>Netherlands_europe_2,World_basemap_2</maps>
+        <zoom>11</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+    <wpt lat="53.5414" lon="5.0468">
+    <name>Neth-overview 12</name>
+    <desc>Netherlands overview zoom 12</desc>
+    <extensions>
+	<maps>Netherlands_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.5414" lon="5.0468">
+    <name>Neth-overview 13</name>
+    <desc>Netherlands overview zoom 13</desc>
+    <extensions>
+	<maps>Netherlands_europe_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.3157" lon="4.8254">
+    <name>Amsterdamse-bos 14</name>
+    <desc>Amsterdamse-bos 14</desc>
+    <extensions>
+	<maps>Netherlands_europe_2</maps>
+        <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  
+  <wpt lat="52.3672" lon="4.8870">
+    <name>Amsterdam 15</name>
+    <desc>Amsterdam 15</desc>
+    <extensions>
+	<maps>Netherlands_europe_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.07835" lon="4.29314">
+    <name>Den haag  17</name>
+    <desc>Den haag 17 (route 5 and route 26) </desc>
+    <extensions>
+	<maps>Netherlands_europe_2</maps>
+        <zoom>17</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  
 </gpx>
