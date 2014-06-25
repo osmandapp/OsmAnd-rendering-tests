@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="12" renderingProperties=";nightMode=true" renderingName="default,UniRS">  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>            
+            <th>Default-night</th>
+            <th>UniRS</th> 
+            <th>UniRS-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate_12/$FILENAME">
+                  <img src="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate_12/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  <wpt lat="50.5438" lon="5.488">
+    <name>Rural area</name>
+    <desc>Rural area test</desc>
+    <extensions>
+    	<maps>Belgium_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="50.2481" lon="4.5226">
+    <name>Rural area 2</name>
+    <desc>Rural area test 2</desc>
+    <extensions>
+    	<maps>Belgium_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+
+</gpx>

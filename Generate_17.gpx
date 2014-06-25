@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="17" renderingProperties="showAccess=true;nightMode=true,showAccess=true" renderingName="default,UniRS">  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>            
+            <th>Default-night</th>
+            <th>UniRS</th> 
+            <th>UniRS-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate_17/$FILENAME">
+                  <img src="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate_17/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  <wpt lat="47.4852" lon="19.0654">
+    <name>Access</name>
+    <desc>Test access</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.4852" lon="19.0654">
+    <name>Access2</name>
+    <desc>Test access 2</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.5201" lon="19.0587">
+    <name>Access3</name>
+    <desc>Test access 3</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="50.8411" lon="4.3638">
+    <name>Access area</name>
+    <desc>Test access tag on areas</desc>
+    <extensions>
+    	<maps>Belgium_europe_2</maps>
+	</extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+</gpx>
