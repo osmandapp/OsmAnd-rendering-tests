@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="15" renderingProperties="showSurfaces=true,showSurfaceGrade=true;nightMode=true,showSurfaces=true,showSurfaceGrade=true" renderingName="default,UniRS">  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>            
+            <th>Default-night</th>
+            <th>UniRS</th> 
+            <th>UniRS-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate_surface/$FILENAME">
+                  <img src="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate_surface/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  <wpt lat="56.0557" lon="40.4739">
+    <name>Surface1_15</name>
+    <desc>Test surface and smoothness 1 (zoom 15)</desc>
+    <extensions>
+    	<maps>Russia_vladimir_asia_2</maps>
+    	<zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="56.0557" lon="40.4739">
+    <name>Surface2_14</name>
+    <desc>Test surface and smoothness 2 (zoom 14)</desc>
+    <extensions>
+    	<maps>Russia_vladimir_asia_2</maps>
+	<zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="56.1317" lon="40.6482">
+    <name>Surface3_15</name>
+    <desc>Test surface and smoothness 3 (zoom 15)</desc>
+    <extensions>
+    	<maps>Russia_vladimir_asia_2</maps>
+	<zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="56.1286" lon="40.4044">
+    <name>Surface4_16</name>
+    <desc>Test surface and smoothness 4 (zoom 16)</desc>
+    <extensions>
+    	<maps>Russia_vladimir_asia_2</maps>
+	<zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="56.127" lon="40.3978">
+    <name>Surface5_18</name>
+    <desc>Test surface and smoothness 5 (zoom 18)</desc>
+    <extensions>
+    	<maps>Russia_vladimir_asia_2</maps>
+	<zoom>18</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="55.8056" lon="38.9478">
+    <name>Surface6_16</name>
+    <desc>Test surface and smoothness 6 (zoom 16)</desc>
+    <extensions>
+    	<maps>Russia_moskovskaya-oblast_asia_2</maps>
+	<zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="50.8062" lon="4.4883">
+    <name>Surface7_15</name>
+    <desc>Test surface and smoothness 7 (zoom 15)</desc>
+    <extensions>
+    	<maps>Belgium_europe_2</maps>
+	<zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.5406" lon="19.0637">
+    <name>Surface8_17</name>
+    <desc>Test surface and smoothness 8 (zoom 17)</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+	<zoom>17</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+</gpx>
