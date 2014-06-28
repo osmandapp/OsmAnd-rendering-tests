@@ -34,7 +34,7 @@
     <name>Construction</name>
     <desc>Test construction tags (rendering nice)</desc>
     <extensions>
-      <maps>Germany_niedersachsen_europe_2</maps>
+      <maps>Germany_rheinland-pfalz_europe_2</maps>
   </extensions>
     <category>Rendering-test</category>
   </wpt>
