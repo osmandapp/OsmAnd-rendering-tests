@@ -30,6 +30,14 @@
       </body>                    
       </html> 
   </extensions>
+  <wpt lat="49.92294" lon="8.307903">
+    <name>Construction</name>
+    <desc>Test construction tags (rendering nice)</desc>
+    <extensions>
+      <maps>Germany_niedersachsen_europe_2</maps>
+  </extensions>
+    <category>Rendering-test</category>
+  </wpt>
   <wpt lat="47.4852" lon="19.0654">
     <name>Access</name>
     <desc>Test access</desc>
