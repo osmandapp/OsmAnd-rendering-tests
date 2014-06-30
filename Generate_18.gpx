@@ -47,6 +47,15 @@
 	</extensions>
     <category>Rendering-test</category>
   </wpt> -->
+  
+  <wpt lat="50.84664" lon="4.35615">
+    <name>Pedestrian areas</name>
+    <desc>Test pedestrian area</desc>
+    <extensions>
+      <maps>Spain_europe_2</maps>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
   <wpt lat="21.6978073" lon="-157.973938">
     <name>Tracktypes</name>
     <desc>Test use of tracktype tag, there are different types visible in this area</desc>
