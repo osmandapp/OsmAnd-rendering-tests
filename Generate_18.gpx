@@ -52,7 +52,7 @@
     <name>Pedestrian areas</name>
     <desc>Test pedestrian area</desc>
     <extensions>
-      <maps>Spain_europe_2</maps>
+      <maps>Belgium_europe_2</maps>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
