@@ -30,30 +30,59 @@
       </body>                    
       </html> 
   </extensions>
-  <wpt lat="50.5438" lon="5.488">
-    <name>Rural area</name>
-    <desc>Rural area test</desc>
+  <wpt lat="42.3622" lon="-71.1071">
+    <name>Boston 12</name>
+    <desc>Boston 12</desc>
     <extensions>
-    	<maps>Belgium_europe_2</maps>
-	</extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="50.2481" lon="4.5226">
-    <name>Rural area 2</name>
-    <desc>Rural area test 2</desc>
-    <extensions>
-    	<maps>Belgium_europe_2</maps>
-	</extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="39.1291" lon="-84.4797">
-    <name>Cincinnati</name>
-    <desc>Cincinnati</desc>
-    <extensions>
-    	<maps>Us_ohio_northamerica_2</maps>
-	</extensions>
+    	<maps>Us_massachusetts_northamerica_2</maps>
+	<zoom>12</zoom>
+    </extensions>
     <category>Rendering-test</category>
   </wpt>
 
-
+  <wpt lat="42.3622" lon="-71.1071">
+    <name>Boston 13</name>
+    <desc>Boston 13</desc>
+    <extensions>
+    	<maps>Us_massachusetts_northamerica_2</maps>
+	<zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="42.349" lon="-71.081">
+    <name>Boston 14</name>
+    <desc>Boston 14</desc>
+    <extensions>
+    	<maps>Us_massachusetts_northamerica_2</maps>
+	<zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="42.4246" lon="-71.0815">
+    <name>Boston 14 2</name>
+    <desc>Boston 14 2</desc>
+    <extensions>
+    	<maps>Us_massachusetts_northamerica_2</maps>
+	<zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="42.3527" lon="-71.0624">
+    <name>Boston 15</name>
+    <desc>Boston 15</desc>
+    <extensions>
+    	<maps>Us_massachusetts_northamerica_2</maps>
+	<zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="42.3569" lon="-71.0582">
+    <name>Boston 16</name>
+    <desc>Boston 16</desc>
+    <extensions>
+    	<maps>Us_massachusetts_northamerica_2</maps>
+	<zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
 </gpx>

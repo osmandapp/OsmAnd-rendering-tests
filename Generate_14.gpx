@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="12" renderingProperties=";nightMode=true" renderingName="default,UniRS">  <extensions>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="14" renderingProperties=";nightMode=true" renderingName="default,UniRS">  <extensions>
       <html>                    
       <head>                   
         <title>Rendering test results in HTML</title>                    
@@ -30,23 +30,7 @@
       </body>                    
       </html> 
   </extensions>
-  <wpt lat="50.5438" lon="5.488">
-    <name>Rural area</name>
-    <desc>Rural area test</desc>
-    <extensions>
-    	<maps>Belgium_europe_2</maps>
-	</extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="50.2481" lon="4.5226">
-    <name>Rural area 2</name>
-    <desc>Rural area test 2</desc>
-    <extensions>
-    	<maps>Belgium_europe_2</maps>
-	</extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="39.1291" lon="-84.4797">
+  <wpt lat="39.1047" lon="-84.5049">
     <name>Cincinnati</name>
     <desc>Cincinnati</desc>
     <extensions>

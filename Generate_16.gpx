@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="15" renderingProperties="showAccess=true;nightMode=true,showAccess=true" renderingName="default,UniRS">  <extensions>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="16" renderingProperties="showAccess=true;nightMode=true,showAccess=true" renderingName="default,UniRS">  <extensions>
       <html>                    
       <head>                   
         <title>Rendering test results in HTML</title>                    
@@ -30,15 +30,7 @@
       </body>                    
       </html> 
   </extensions>
-  <wpt lat="49.92294" lon="8.307903">
-    <name>Construction</name>
-    <desc>Test construction tags (rendering nice)</desc>
-    <extensions>
-      <maps>Germany_rheinland-pfalz_europe_2</maps>
-  </extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="39.1038" lon="-84.5108">
+  <wpt lat="39.1025" lon="-84.5121">
     <name>Cincinnati</name>
     <desc>Cincinnati</desc>
     <extensions>
