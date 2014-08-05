@@ -176,5 +176,32 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="41.3833" lon="2.1404">
+    <name>Barcelona test, zoom 12</name>
+    <desc>Barcelona test, zoom 12</desc>
+    <extensions>
+    	<maps>Spain_europe_2</maps>
+	 <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="41.3859" lon="2.1479">
+    <name>Barcelona test, zoom 13</name>
+    <desc>Barcelona test, zoom 13</desc>
+    <extensions>
+    	<maps>Spain_europe_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="41.3859" lon="2.1479">
+    <name>Barcelona test, zoom 14</name>
+    <desc>Barcelona test, zoom 14</desc>
+    <extensions>
+    	<maps>Spain_europe_2</maps>
+	 <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
 
 </gpx>
