@@ -149,5 +149,32 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="48.8595" lon="2.3203">
+    <name>Paris test, zoom 12</name>
+    <desc>Paris test, zoom 12</desc>
+    <extensions>
+    	<maps>France_ile-de-france_europe_2</maps>
+	 <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="48.8595" lon="2.3203">
+    <name>Paris test, zoom 13</name>
+    <desc>Paris test, zoom 13</desc>
+    <extensions>
+    	<maps>France_ile-de-france_europe_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="48.8662" lon="2.3345">
+    <name>Paris test, zoom 14</name>
+    <desc>Paris test, zoom 14</desc>
+    <extensions>
+    	<maps>France_ile-de-france_europe_2</maps>
+	 <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
 
 </gpx>
