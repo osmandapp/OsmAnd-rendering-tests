@@ -203,5 +203,32 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="40.417" lon="-3.6918">
+    <name>Madrid test, zoom 12</name>
+    <desc>Madrid test, zoom 12</desc>
+    <extensions>
+    	<maps>Spain_europe_2</maps>
+	 <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="40.417" lon="-3.6918">
+    <name>Madrid test, zoom 13</name>
+    <desc>Madrid test, zoom 13</desc>
+    <extensions>
+    	<maps>Spain_europe_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="38.7527" lon="-9.1678">
+    <name>Lisboa, zoom 13</name>
+    <desc>Lisboa, zoom 13</desc>
+    <extensions>
+    	<maps>Portugal_europe_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
 
 </gpx>
