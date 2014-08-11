@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="12" renderingProperties="showSurfaces=true,showSurfaceGrade=true,showAccess=true,buildings15zoom=true;showSurfaces=true,showSurfaceGrade=true,showAccess=true,buildings15zoom=true,nightMode=true" renderingName="default,UniRS">  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>            
+            <th>Default-night</th>
+            <th>UniRS</th> 
+            <th>UniRS-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Synthetic_test_rendering/$FILENAME">
+                  <img src="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Synthetic_test_rendering/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  <wpt lat="45.7279" lon="36.511">
+    <name>Highways, zoom 15</name>
+    <desc>Highways, zoom 15</desc>
+    <extensions>
+    	<maps>Test_rendering</maps>
+	 <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="45.7305" lon="36.5039">
+    <name>Highways 1, zoom 16</name>
+    <desc>Highways 1, zoom 16</desc>
+    <extensions>
+    	<maps>Test_rendering</maps>
+	 <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="45.7222" lon="36.5059">
+    <name>Highways 2, zoom 16</name>
+    <desc>Highways 2, zoom 16</desc>
+    <extensions>
+    	<maps>Test_rendering</maps>
+	 <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="45.7268" lon="36.5138">
+    <name>Aerialways, railways, ferrys, zoom 17</name>
+    <desc>Aerialways, railways, ferrys, zoom 17</desc>
+    <extensions>
+    	<maps>Test_rendering</maps>
+	 <zoom>17</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="45.7271" lon="36.5138">
+    <name>Aerialways, railways, ferrys 1, zoom 18</name>
+    <desc>Aerialways, railways, ferrys 1, zoom 18</desc>
+    <extensions>
+    	<maps>Test_rendering</maps>
+	 <zoom>18</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="45.7255" lon="36.5138">
+    <name>Aerialways, railways, ferrys 2, zoom 18</name>
+    <desc>Aerialways, railways, ferrys 2, zoom 18</desc>
+    <extensions>
+    	<maps>Test_rendering</maps>
+	 <zoom>18</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+</gpx>
