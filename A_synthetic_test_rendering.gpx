@@ -35,6 +35,7 @@
     <desc>Highways, zoom 15</desc>
     <extensions>
 	 <zoom>15</zoom>
+	 <maps>Synthetic_test_rendering</maps>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -43,6 +44,7 @@
     <desc>Highways 1, zoom 16</desc>
     <extensions>
 	 <zoom>16</zoom>
+	 <maps>Synthetic_test_rendering</maps>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -51,6 +53,7 @@
     <desc>Highways 2, zoom 16</desc>
     <extensions>
 	 <zoom>16</zoom>
+	 <maps>Synthetic_test_rendering</maps>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -59,6 +62,7 @@
     <desc>Aerialways, railways, ferrys, zoom 17</desc>
     <extensions>
 	 <zoom>17</zoom>
+	 <maps>Synthetic_test_rendering</maps>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -67,6 +71,7 @@
     <desc>Aerialways, railways, ferrys 1, zoom 18</desc>
     <extensions>
 	 <zoom>18</zoom>
+	 <maps>Synthetic_test_rendering</maps>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -75,6 +80,7 @@
     <desc>Aerialways, railways, ferrys 2, zoom 18</desc>
     <extensions>
 	 <zoom>18</zoom>
+	 <maps>Synthetic_test_rendering</maps>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
