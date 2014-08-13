@@ -37,7 +37,7 @@
 	 <zoom>15</zoom>
 	 <maps>Synthetic_test_rendering</maps>
 	 <width>3100</width>
-	 <height>2000</width>
+	 <height>2000</height>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
