@@ -48,7 +48,7 @@
 	 <zoom>16</zoom>
 	 <maps>Synthetic_test_rendering</maps>
 	 <width>6200</width>
-	 <height>4000</width>
+	 <height>4000</height>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
