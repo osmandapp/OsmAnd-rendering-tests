@@ -30,25 +30,36 @@
       </body>                    
       </html> 
   </extensions>
-  <wpt lat="45.7189" lon="36.5488">
+  <wpt lat="45.7169" lon="36.5488">
     <name>Zoom 15</name>
     <desc>Zoom 15</desc>
     <extensions>
 	 <zoom>15</zoom>
 	 <maps>Synthetic_test_rendering</maps>
-	 <width>3100</width>
-	 <height>2000</height>
+	 <width>2900</width>
+	 <height>1700</height>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
-  <wpt lat="45.7189" lon="36.5488">
+  <wpt lat="45.7169" lon="36.5488">
     <name>Zoom 16</name>
     <desc>Zoom 16</desc>
     <extensions>
 	 <zoom>16</zoom>
 	 <maps>Synthetic_test_rendering</maps>
-	 <width>6200</width>
-	 <height>4000</height>
+	 <width>5800</width>
+	 <height>3400</height>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="45.7169" lon="36.5488">
+    <name>Zoom 17</name>
+    <desc>Zoom 17</desc>
+    <extensions>
+	 <zoom>17</zoom>
+	 <maps>Synthetic_test_rendering</maps>
+	 <width>11600</width>
+	 <height>7800</height>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
