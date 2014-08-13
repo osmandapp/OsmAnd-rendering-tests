@@ -30,57 +30,25 @@
       </body>                    
       </html> 
   </extensions>
-  <wpt lat="45.7279" lon="36.511">
-    <name>Highways, zoom 15</name>
-    <desc>Highways, zoom 15</desc>
+  <wpt lat="45.7189" lon="36.5488">
+    <name>Zoom 15</name>
+    <desc>Zoom 15</desc>
     <extensions>
 	 <zoom>15</zoom>
 	 <maps>Synthetic_test_rendering</maps>
+	 <width>3100</width>
+	 <height>2000</width>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
-  <wpt lat="45.7305" lon="36.5039">
-    <name>Highways 1, zoom 16</name>
-    <desc>Highways 1, zoom 16</desc>
+  <wpt lat="45.7189" lon="36.5488">
+    <name>Zoom 16</name>
+    <desc>Zoom 16</desc>
     <extensions>
 	 <zoom>16</zoom>
 	 <maps>Synthetic_test_rendering</maps>
-    </extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="45.7222" lon="36.5059">
-    <name>Highways 2, zoom 16</name>
-    <desc>Highways 2, zoom 16</desc>
-    <extensions>
-	 <zoom>16</zoom>
-	 <maps>Synthetic_test_rendering</maps>
-    </extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="45.7268" lon="36.5138">
-    <name>Aerialways, railways, ferrys, zoom 17</name>
-    <desc>Aerialways, railways, ferrys, zoom 17</desc>
-    <extensions>
-	 <zoom>17</zoom>
-	 <maps>Synthetic_test_rendering</maps>
-    </extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="45.7271" lon="36.5138">
-    <name>Aerialways, railways, ferrys 1, zoom 18</name>
-    <desc>Aerialways, railways, ferrys 1, zoom 18</desc>
-    <extensions>
-	 <zoom>18</zoom>
-	 <maps>Synthetic_test_rendering</maps>
-    </extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="45.7255" lon="36.5138">
-    <name>Aerialways, railways, ferrys 2, zoom 18</name>
-    <desc>Aerialways, railways, ferrys 2, zoom 18</desc>
-    <extensions>
-	 <zoom>18</zoom>
-	 <maps>Synthetic_test_rendering</maps>
+	 <width>6200</width>
+	 <height>4000</width>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
