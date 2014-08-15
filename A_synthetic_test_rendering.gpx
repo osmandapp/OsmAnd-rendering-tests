@@ -63,4 +63,15 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="45.7091" lon="36.4955">
+    <name>Legend, zoom 18</name>
+    <desc>Legend, zoom 18</desc>
+    <extensions>
+	 <zoom>18</zoom>
+	 <maps>Synthetic_test_rendering</maps>
+	 <width>700</width>
+	 <height>12000</height>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
 </gpx>
