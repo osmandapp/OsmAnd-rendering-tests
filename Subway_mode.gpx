@@ -230,5 +230,32 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="51.5188" lon="-0.1334">
+    <name>London, zoom 12</name>
+    <desc>London, zoom 12</desc>
+    <extensions>
+    	<maps>Gb_england_greater-london_europe_2</maps>
+	 <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="51.5188" lon="-0.1334">
+    <name>London, zoom 13</name>
+    <desc>London, zoom 13</desc>
+    <extensions>
+    	<maps>Gb_england_greater-london_europe_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="51.5188" lon="-0.1334">
+    <name>London, zoom 14</name>
+    <desc>London, zoom 14</desc>
+    <extensions>
+    	<maps>Gb_england_greater-london_europe_2</maps>
+	 <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
 
 </gpx>
