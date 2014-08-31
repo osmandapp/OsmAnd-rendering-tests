@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="12" renderingProperties="subwayMode=true;nightMode=true,subwayMode=true" renderingName="default,UniRS">  <extensions>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="12" renderingProperties="moreDetailed=true;nightMode=true,moreDetailed=true" renderingName="default,UniRS">  <extensions>
       <html>                    
       <head>                   
         <title>Rendering test results in HTML</title>                    
@@ -17,8 +17,8 @@
         <tr>
           <ROW_ELEMENT>
           <td>
-                <a href="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Subway_mode/$FILENAME">
-                  <img src="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Subway_mode/$FILENAME" width="444" height="250" alt=""/></a>
+                <a href="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/MoreDetailed_mode/$FILENAME">
+                  <img src="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/MoreDetailed_mode/$FILENAME" width="444" height="250" alt=""/></a>
           </td>
           </ROW_ELEMENT>
         </tr>
@@ -31,8 +31,8 @@
       </html> 
   </extensions>
   <wpt lat="55.7515" lon="37.6187">
-    <name>Moscow subway test, zoom 11</name>
-    <desc>Moscow subway test, zoom 11</desc>
+    <name>Moscow, zoom 11</name>
+    <desc>Moscow, zoom 11</desc>
     <extensions>
     	<maps>Russia_moscow_asia_2</maps>
 	 <zoom>11</zoom>
@@ -40,8 +40,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="55.7515" lon="37.6187">
-    <name>Moscow subway test, zoom 12</name>
-    <desc>Moscow subway test, zoom 12</desc>
+    <name>Moscow, zoom 12</name>
+    <desc>Moscow, zoom 12</desc>
     <extensions>
     	<maps>Russia_moscow_asia_2</maps>
 	 <zoom>12</zoom>
@@ -49,8 +49,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="55.7515" lon="37.6187">
-    <name>Moscow subway test, zoom 13</name>
-    <desc>Moscow subway test, zoom 13</desc>
+    <name>Moscow, zoom 13</name>
+    <desc>Moscow, zoom 13</desc>
     <extensions>
     	<maps>Russia_moscow_asia_2</maps>
 	 <zoom>13</zoom>
@@ -58,8 +58,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="55.6493" lon="37.6286">
-    <name>Moscow subway test, zoom 13 2</name>
-    <desc>Moscow subway test, zoom 13 2</desc>
+    <name>Moscow, zoom 13 2</name>
+    <desc>Moscow, zoom 13 2</desc>
     <extensions>
     	<maps>Russia_moscow_asia_2</maps>
 	 <zoom>13</zoom>
@@ -67,8 +67,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="55.7515" lon="37.6187">
-    <name>Moscow subway test, zoom 14</name>
-    <desc>Moscow subway test, zoom 14</desc>
+    <name>Moscow, zoom 14</name>
+    <desc>Moscow, zoom 14</desc>
     <extensions>
     	<maps>Russia_moscow_asia_2</maps>
 	 <zoom>14</zoom>
@@ -76,8 +76,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="55.7515" lon="37.6187">
-    <name>Moscow subway test, zoom 15</name>
-    <desc>Moscow subway test, zoom 15</desc>
+    <name>Moscow, zoom 15</name>
+    <desc>Moscow, zoom 15</desc>
     <extensions>
     	<maps>Russia_moscow_asia_2</maps>
 	 <zoom>15</zoom>
@@ -86,8 +86,8 @@
   </wpt>
 
   <wpt lat="40.7603" lon="-73.9061">
-    <name>New York subway test, zoom 11</name>
-    <desc>New York subway test, zoom 11</desc>
+    <name>New York, zoom 11</name>
+    <desc>New York, zoom 11</desc>
     <extensions>
     	<maps>Us_new-york_northamerica_2</maps>
 	 <zoom>11</zoom>
@@ -95,8 +95,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="40.7215" lon="-73.9377">
-    <name>New York subway test, zoom 13</name>
-    <desc>New York subway test, zoom 13</desc>
+    <name>New York, zoom 13</name>
+    <desc>New York, zoom 13</desc>
     <extensions>
     	<maps>Us_new-york_northamerica_2</maps>
 	 <zoom>13</zoom>
@@ -104,8 +104,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="40.7538" lon="-73.979">
-    <name>New York subway test, zoom 14</name>
-    <desc>New York subway test, zoom 14</desc>
+    <name>New York, zoom 14</name>
+    <desc>New York, zoom 14</desc>
     <extensions>
     	<maps>Us_new-york_northamerica_2</maps>
 	 <zoom>14</zoom>
@@ -114,8 +114,8 @@
   </wpt>
 
   <wpt lat="59.933" lon="30.3597">
-    <name>Saint-Petersburg subway test, zoom 11</name>
-    <desc>Saint-Petersburg subway test, zoom 11</desc>
+    <name>Saint-Petersburg, zoom 11</name>
+    <desc>Saint-Petersburg, zoom 11</desc>
     <extensions>
     	<maps>Russia_leningradskaya_asia_2</maps>
 	 <zoom>11</zoom>
@@ -123,8 +123,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="59.9278" lon="30.3314">
-    <name>Saint-Petersburg subway test, zoom 12</name>
-    <desc>Saint-Petersburg subway test, zoom 12</desc>
+    <name>Saint-Petersburg, zoom 12</name>
+    <desc>Saint-Petersburg, zoom 12</desc>
     <extensions>
     	<maps>Russia_leningradskaya_asia_2</maps>
 	 <zoom>12</zoom>
@@ -132,8 +132,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="59.9259" lon="30.3208">
-    <name>Saint-Petersburg subway test, zoom 13</name>
-    <desc>Saint-Petersburg subway test, zoom 13</desc>
+    <name>Saint-Petersburg, zoom 13</name>
+    <desc>Saint-Petersburg, zoom 13</desc>
     <extensions>
     	<maps>Russia_leningradskaya_asia_2</maps>
 	 <zoom>13</zoom>
@@ -141,8 +141,8 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="59.9259" lon="30.3208">
-    <name>Saint-Petersburg subway test, zoom 14</name>
-    <desc>Saint-Petersburg subway test, zoom 14</desc>
+    <name>Saint-Petersburg, zoom 14</name>
+    <desc>Saint-Petersburg, zoom 14</desc>
     <extensions>
     	<maps>Russia_leningradskaya_asia_2</maps>
 	 <zoom>14</zoom>
@@ -257,6 +257,33 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="28.4335" lon="-16.3889">
+    <name>Canary islands, zoom 12</name>
+    <desc>Canary islands, zoom 12</desc>
+    <extensions>
+    	<maps>Canary-islands_africa_2</maps>
+	 <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="28.3646" lon="-16.5974">
+    <name>Canary islands, zoom 13</name>
+    <desc>Canary islands, zoom 13</desc>
+    <extensions>
+    	<maps>Canary-islands_africa_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="28.3646" lon="-16.5974">
+    <name>Canary islands, zoom 13</name>
+    <desc>Canary islands, zoom 13</desc>
+    <extensions>
+    	<maps>Canary-islands_africa_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
   <wpt lat="52.50099" lon="13.4003">
     <name>Berlin, zoom 12</name>
     <desc>Berlin, zoom 12</desc>
@@ -284,12 +311,84 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
+  <wpt lat="52.507" lon="13.549">
+    <name>Berlin, zoom 15</name>
+    <desc>Berlin, zoom 15</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+	 <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.5057" lon="13.3234">
+    <name>Berlin, zoom 15</name>
+    <desc>Berlin, zoom 15</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+	 <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
   <wpt lat="50.0608" lon="14.5203">
     <name>Praha, zoom 12</name>
     <desc>Praha, zoom 12</desc>
     <extensions>
     	<maps>Czech-republic_europe_2</maps>
 	 <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="50.0849" lon="14.4322">
+    <name>Praha, zoom 15</name>
+    <desc>Praha, zoom 15</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+	 <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="4.6094" lon="-74.1569">
+    <name>Bogota, zoom 13</name>
+    <desc>Bogota, zoom 13</desc>
+    <extensions>
+    	<maps>Colombia_southamerica_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="10.4224" lon="-75.539">
+    <name>Cartagena, zoom 16</name>
+    <desc>Cartagena, zoom 16</desc>
+    <extensions>
+    	<maps>Colombia_southamerica_2</maps>
+	 <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="6.2491" lon="-75.5825">
+    <name>Medellin, zoom 13</name>
+    <desc>Medellin, zoom 13</desc>
+    <extensions>
+    	<maps>Colombia_southamerica_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="55.6776" lon="12.4655">
+    <name>Kobenhavn, zoom 12</name>
+    <desc>Kobenhavn, zoom 12</desc>
+    <extensions>
+    	<maps>Denmark_europe_2</maps>
+	 <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="55.6737" lon="12.5481">
+    <name>Kobenhavn, zoom 15</name>
+    <desc>Kobenhavn, zoom 15</desc>
+    <extensions>
+    	<maps>Denmark_europe_2</maps>
+	 <zoom>15</zoom>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
