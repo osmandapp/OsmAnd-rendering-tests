@@ -275,15 +275,6 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
-  <wpt lat="28.3646" lon="-16.5974">
-    <name>Canary islands, zoom 13</name>
-    <desc>Canary islands, zoom 13</desc>
-    <extensions>
-    	<maps>Canary-islands_africa_2</maps>
-	 <zoom>13</zoom>
-    </extensions>
-    <category>Rendering-test</category>
-  </wpt>
   <wpt lat="52.50099" lon="13.4003">
     <name>Berlin, zoom 12</name>
     <desc>Berlin, zoom 12</desc>
@@ -312,15 +303,6 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="52.507" lon="13.549">
-    <name>Berlin, zoom 15</name>
-    <desc>Berlin, zoom 15</desc>
-    <extensions>
-    	<maps>Germany_berlin_europe_2</maps>
-	 <zoom>15</zoom>
-    </extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="52.5057" lon="13.3234">
     <name>Berlin, zoom 15</name>
     <desc>Berlin, zoom 15</desc>
     <extensions>
