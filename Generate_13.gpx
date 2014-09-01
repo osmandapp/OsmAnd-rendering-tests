@@ -17,8 +17,8 @@
         <tr>
           <ROW_ELEMENT>
           <td>
-                <a href="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate_13/$FILENAME">
-                  <img src="https://jenkins.osmand.net/job/OsmAndTestRendering/ws/rendering-tests/Generate_13/$FILENAME" width="444" height="250" alt=""/></a>
+                <a href="$PWD/$FILENAME">
+                  <img src="$PWD/$FILENAME" width="444" height="250" alt=""/></a>
           </td>
           </ROW_ELEMENT>
         </tr>
