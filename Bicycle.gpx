@@ -42,7 +42,7 @@
   </wpt>
 
   <wpt lat="52.2358" lon="4.8446">
-    <name>Neth-overview 11</name>
+    <name>Neth-overview_11</name>
     <desc>Netherlands overview zoom 11</desc>
     <extensions>
 	<maps>Netherlands_europe_2,World_basemap_2</maps>
@@ -51,7 +51,7 @@
     <category>Rendering-test</category>
   </wpt>
     <wpt lat="52.2358" lon="4.8446">
-    <name>Neth-overview 12</name>
+    <name>Neth-overview_12</name>
     <desc>Netherlands overview zoom 12</desc>
     <extensions>
 	<maps>Netherlands_europe_2</maps>
@@ -60,7 +60,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="52.2358" lon="4.8446">
-    <name>Neth-overview 13</name>
+    <name>Neth-overview_13</name>
     <desc>Netherlands overview zoom 13</desc>
     <extensions>
 	<maps>Netherlands_europe_2</maps>
@@ -69,7 +69,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="52.3157" lon="4.8254">
-    <name>Amsterdamse-bos 14</name>
+    <name>Amsterdamse-bos_14</name>
     <desc>Amsterdamse-bos 14</desc>
     <extensions>
 	<maps>Netherlands_europe_2</maps>
@@ -79,7 +79,7 @@
   </wpt>
   
   <wpt lat="52.3672" lon="4.8870">
-    <name>Amsterdam 15</name>
+    <name>Amsterdam_15</name>
     <desc>Amsterdam 15</desc>
     <extensions>
 	<maps>Netherlands_europe_2</maps>
@@ -88,7 +88,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="52.07835" lon="4.29314">
-    <name>Den haag  17</name>
+    <name>Den_haag_17</name>
     <desc>Den haag 17 (route 5 and route 26) </desc>
     <extensions>
 	<maps>Netherlands_europe_2</maps>

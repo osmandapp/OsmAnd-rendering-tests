@@ -31,7 +31,7 @@
       </html> 
   </extensions>
   <wpt lat="45.7169" lon="36.5488">
-    <name>Zoom 15</name>
+    <name>Zoom_15</name>
     <desc>Zoom 15</desc>
     <extensions>
 	 <zoom>15</zoom>
@@ -42,7 +42,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="45.7169" lon="36.5488">
-    <name>Zoom 16</name>
+    <name>Zoom_16</name>
     <desc>Zoom 16</desc>
     <extensions>
 	 <zoom>16</zoom>
@@ -53,7 +53,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="45.7169" lon="36.5488">
-    <name>Zoom 17</name>
+    <name>Zoom_17</name>
     <desc>Zoom 17</desc>
     <extensions>
 	 <zoom>17</zoom>
@@ -64,7 +64,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="45.7091" lon="36.4955">
-    <name>Legend, zoom 18</name>
+    <name>Legend_zoom_18</name>
     <desc>Legend, zoom 18</desc>
     <extensions>
 	 <zoom>18</zoom>

@@ -65,7 +65,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="32.4417798" lon="-110.8645105">
-    <name>Forest with different shaders</name>
+    <name>Forest_with_different_shaders</name>
     <desc>Test the visibility of several forest and NR shaders as well as wilderness boundaries present at the same time, make sure this just visible but not disturbing</desc>
     <extensions>
     	<maps>Us_arizona_northamerica_2</maps>
@@ -81,7 +81,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="36.8749762" lon="-2.0002625">
-    <name>NR shader over water</name>
+    <name>NR_shader_over_water</name>
     <desc>Nature reserve over water and land, make sure it is just about visible but not disturbing.</desc>
     <extensions>
     	<maps>Spain_europe_2</maps>
@@ -89,7 +89,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="36.0124943" lon="-5.6043876">
-    <name>Medieval town center</name>
+    <name>Medieval_town_center</name>
     <desc>Documents the melting of very narrow white roads at high zooms. Crucial for (visibility vs. melting) compromise selection of road width.</desc>
     <extensions>
     	<maps>Spain_europe_2</maps>
@@ -97,7 +97,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="33.0091463" lon="-113.7761469">
-    <name>Military and NR shader</name>
+    <name>Military_and_NR_shader</name>
     <desc>See military and NR shader close by. This military shader is a special case with holes.</desc>
     <extensions>
     	<maps>Us_arizona_northamerica_2</maps>
@@ -105,7 +105,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="24.6009552" lon="-81.7009172">
-    <name>Islands NR military</name>
+    <name>Islands_NR_military</name>
     <desc>See military shader over land and water</desc>
     <extensions>
     	<maps>Us_florida_northamerica_2</maps>
@@ -113,7 +113,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="49.7297129" lon="11.7159639">
-    <name>Military and forest</name>
+    <name>Military_and_forest</name>
     <desc>Big military training area, see military shader covering forest areas and other features.</desc>
     <extensions>
     	<maps>Germany_bayern_europe_2</maps>
@@ -121,7 +121,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="41.4156472" lon="12.7653956">
-    <name>Military and forest 2</name>
+    <name>Military_and_forest_2</name>
     <desc>See military shader covering forest area.</desc>
     <extensions>
     	<maps>Italy_europe_2</maps>
@@ -129,7 +129,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="47.5572545" lon="12.2851161">
-    <name>Alpine hiking trails</name>
+    <name>Alpine_hiking_trails</name>
     <desc>See alpine SAC scaled paths, Touring view and Alpine hiking setting must be selected (pedestrian mode)</desc>
     <extensions>
     	<maps>Austria_europe_2</maps>
@@ -145,7 +145,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="33.8168735" lon="-109.293753">
-    <name>All forest</name>
+    <name>All_forest</name>
     <desc>Check that in an "all forest" (green) area map is still useable and details are visible</desc>
     <extensions>
     	<maps>Us_arizona_northamerica_2</maps>
@@ -161,7 +161,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="45.5642375" lon="10.6135208">
-    <name>Lake ferries admin</name>
+    <name>Lake_ferries_admin</name>
     <desc>See big lake, ferry routes, and admin boundaries on it</desc>
     <extensions>
     	<maps>Italy_europe_2</maps>
@@ -169,7 +169,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="36.0866855" lon="-115.1548082">
-    <name>Airport and terminals</name>
+    <name>Airport_and_terminals</name>
     <desc>See an airport with runways, aprons, terminal buildings, gates</desc>
     <extensions>
     	<maps>Us_nevada_northamerica_2</maps>
@@ -177,7 +177,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="32.6609203" lon="-109.8679913">
-    <name>All forest 2</name>
+    <name>All_forest_2</name>
     <desc>Check that in an "all forest" (green) area map is still useable and details are visible</desc>
     <extensions>
     	<maps>Us_arizona_northamerica_2</maps>
@@ -185,7 +185,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="31.9989319" lon="-110.7508163">
-    <name>SRTM noise</name>
+    <name>SRTM_noise</name>
     <desc>See noise of SRTM lines in an evenly sloped area, should probably be smoothened</desc>
     <extensions>
     	<maps>Us_nevada_northamerica_2</maps>
@@ -201,7 +201,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="48.1359097" lon="11.5744803">
-    <name>City center</name>
+    <name>City_center</name>
     <desc>Check a city center with many shops, ped areas, roads, etc.</desc>
     <extensions>
     	<maps>Germany_bayern_europe_2</maps>
@@ -209,7 +209,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="41.9883322" lon="12.4891">
-    <name>Highway types</name>
+    <name>Highway_types</name>
     <desc>See most different highway types, check how they are rendered in different renderers, check also color dimming in Touring view car night mode</desc>
     <extensions>
     	<maps>Italy_europe_2</maps>
@@ -217,7 +217,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="48.0276313" lon="11.6578022">
-    <name>Motorway intersection</name>
+    <name>Motorway_intersection</name>
     <desc>See a big motorway intersection to check the correct order and width of motorway vs. motorway-link</desc>
     <extensions>
     	<maps>Germany_bayern_europe_2</maps>
@@ -225,7 +225,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="41.9078026" lon="12.4748383">
-    <name>Big city</name>
+    <name>Big_city</name>
     <desc>See a big city and test overall appearance and render performance. Point chosen is likely the maximum amount of detail and worst case performance to be encountered anywhere.</desc>
     <extensions>
     	<maps>Italy_europe_2</maps>
@@ -234,7 +234,7 @@
   </wpt>
   
   <wpt lat="47.4496224" lon="11.0695639">
-    <name>Winter ski slopes</name>
+    <name>Winter_ski_slopes</name>
     <desc>See some ski slopes and lifts for testing winter+ski renderer and the World_ski map</desc>
     <extensions>
     	<maps>Germany_bayern_europe_2, World-ski_2</maps>

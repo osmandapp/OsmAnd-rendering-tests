@@ -31,7 +31,7 @@
       </html> 
   </extensions>
   <wpt lat="50.5438" lon="5.488">
-    <name>Rural area</name>
+    <name>Rural_area</name>
     <desc>Rural area test</desc>
     <extensions>
     	<maps>Belgium_europe_2</maps>
@@ -39,7 +39,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="50.2481" lon="4.5226">
-    <name>Rural area 2</name>
+    <name>Rural_area_2</name>
     <desc>Rural area test 2</desc>
     <extensions>
     	<maps>Belgium_europe_2</maps>

@@ -49,7 +49,7 @@
   </wpt> -->
   
   <wpt lat="50.84664" lon="4.35615">
-    <name>Pedestrian areas</name>
+    <name>Pedestrian_areas</name>
     <desc>Test pedestrian area</desc>
     <extensions>
       <maps>Belgium_europe_2</maps>

@@ -55,7 +55,7 @@
     <category>Rendering-test</category>
   </wpt>
   <wpt lat="50.8411" lon="4.3638">
-    <name>Access area</name>
+    <name>Access_area</name>
     <desc>Test access tag on areas</desc>
     <extensions>
     	<maps>Belgium_europe_2</maps>
