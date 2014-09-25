@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="15" renderingProperties="hideBuildings=false,osmcTraces=true,moreDetailed=true,showAccess=true,coloredBuildings=true,showSurfaces=true,showSurfaceGrade=true;nightMode=true,hideBuildings=false,osmcTraces=true,moreDetailed=true,showAccess=true,coloredBuildings=true,showSurfaces=true,showSurfaceGrade=true" renderingName="default,UniRS">
+  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>            
+            <th>Default-night</th>
+            <th>UniRS</th> 
+            <th>UniRS-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="$PWD/$FILENAME">
+                  <img src="$PWD/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  <wpt lat="47.5423" lon="18.951">
+    <name>OSMC_Budapest</name>
+    <desc>Budapest, zoom 15</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+    	<zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.5085" lon="18.9657">
+    <name>OSMC_Budapest2</name>
+    <desc>Budapest, zoom 14</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+    	<zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.6733" lon="18.9234">
+    <name>OSMC_Budapest3</name>
+    <desc>Budapest, zoom 12</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+    	<zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.9329" lon="18.9286">
+    <name>OSMC_Budapest4</name>
+    <desc>Near Budapest, zoom 15</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+    	<zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.8656" lon="19.9723">
+    <name>OSMC_Budapest5</name>
+    <desc>Near Budapest, zoom 13</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+    	<zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.8656" lon="19.9723">
+    <name>OSMC_Budapest6</name>
+    <desc>Near Budapest, zoom 14</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+    	<zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.8656" lon="19.9723">
+    <name>OSMC_Budapest7</name>
+    <desc>Near Budapest, zoom 15 2</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+    	<zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.8656" lon="19.9723">
+    <name>OSMC_Budapest8</name>
+    <desc>Near Budapest, zoom 16</desc>
+    <extensions>
+    	<maps>Hungary_europe_2</maps>
+    	<zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.8804" lon="14.2382">
+    <name>OSMC_Czech</name>
+    <desc>Near Praha, zoom 14</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+    	<zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.8804" lon="14.2382">
+    <name>OSMC_Czech2</name>
+    <desc>Near Praha, zoom 15</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+    	<zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.8806" lon="14.5177">
+    <name>OSMC_Czech3</name>
+    <desc>Near Praha, zoom 14 2</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+    	<zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.8806" lon="14.5177">
+    <name>OSMC_Czech4</name>
+    <desc>Near Praha, zoom 14 2 (without surface)</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+    	<zoom>14</zoom>
+	<showSurfaces>false</showSurfaces>
+	<showSurfaceGrade>false</showSurfaceGrade>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.5618" lon="15.9331">
+    <name>OSMC_Czech5</name>
+    <desc>Zdar nad Sazavou, zoom 15 (without surface)</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+    	<zoom>15</zoom>
+	<showSurfaces>false</showSurfaces>
+	<showSurfaceGrade>false</showSurfaceGrade>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.5618" lon="15.9331">
+    <name>OSMC_Czech6</name>
+    <desc>Zdar nad Sazavou, zoom 16 (without surface)</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+    	<zoom>16</zoom>
+	<showSurfaces>false</showSurfaces>
+	<showSurfaceGrade>false</showSurfaceGrade>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.5337" lon="16.8012">
+    <name>OSMC_Czech7</name>
+    <desc>Korenec, zoom 12</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+    	<zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="49.4867" lon="16.6562">
+    <name>OSMC_Czech8</name>
+    <desc>Boskovice, zoom 16</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+    	<zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+</gpx>
