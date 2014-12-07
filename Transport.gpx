@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="13" renderingProperties="appMode=default,hideBuildings=false;nightMode=true,appMode=default,hideBuildings=false" renderingName="default,UniRS">
+  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>            
+            <th>Default-night</th>
+            <th>UniRS</th> 
+            <th>UniRS-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="$PWD/$FILENAME">
+                  <img src="$PWD/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  
+  <wpt lat="56.13" lon="40.4063">
+    <name>Vladimir_publicTransport 1</name>
+    <desc>Vladimir_publicTransport,zoom 16</desc>
+    <extensions>
+	<maps>Russia_vladimir_asia_2</maps>
+        <zoom>16</zoom>
+        <publicTransportMode>true</publicTransportMode>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="56.13" lon="40.4063">
+    <name>Vladimir_publicTransport 2</name>
+    <desc>Vladimir_publicTransport,zoom 17</desc>
+    <extensions>
+	<maps>Russia_vladimir_asia_2</maps>
+        <zoom>17</zoom>
+        <publicTransportMode>true</publicTransportMode>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="56.1286" lon="40.4043">
+    <name>Vladimir_publicTransport 3</name>
+    <desc>Vladimir_publicTransport,zoom 18</desc>
+    <extensions>
+	<maps>Russia_vladimir_asia_2</maps>
+        <zoom>18</zoom>
+        <publicTransportMode>true</publicTransportMode>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="56.1202" lon="40.364">
+    <name>Vladimir_publicTransport 4</name>
+    <desc>Vladimir_publicTransport,zoom 16</desc>
+    <extensions>
+	<maps>Russia_vladimir_asia_2</maps>
+        <zoom>16</zoom>
+        <publicTransportMode>true</publicTransportMode>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  
+</gpx>
