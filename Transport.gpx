@@ -33,7 +33,7 @@
   </extensions>
   
   <wpt lat="56.13" lon="40.4063">
-    <name>Vladimir_publicTransport 1</name>
+    <name>Vladimir_publicTransport_1</name>
     <desc>Vladimir_publicTransport,zoom 16</desc>
     <extensions>
 	<maps>Russia_vladimir_asia_2</maps>
@@ -44,7 +44,7 @@
   </wpt>
 
   <wpt lat="56.13" lon="40.4063">
-    <name>Vladimir_publicTransport 2</name>
+    <name>Vladimir_publicTransport_2</name>
     <desc>Vladimir_publicTransport,zoom 17</desc>
     <extensions>
 	<maps>Russia_vladimir_asia_2</maps>
@@ -55,7 +55,7 @@
   </wpt>
 
   <wpt lat="56.1286" lon="40.4043">
-    <name>Vladimir_publicTransport 3</name>
+    <name>Vladimir_publicTransport_3</name>
     <desc>Vladimir_publicTransport,zoom 18</desc>
     <extensions>
 	<maps>Russia_vladimir_asia_2</maps>
@@ -66,7 +66,7 @@
   </wpt>
 
   <wpt lat="56.1202" lon="40.364">
-    <name>Vladimir_publicTransport 4</name>
+    <name>Vladimir_publicTransport_4</name>
     <desc>Vladimir_publicTransport,zoom 16</desc>
     <extensions>
 	<maps>Russia_vladimir_asia_2</maps>
