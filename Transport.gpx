@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="13" renderingProperties="appMode=default,hideBuildings=false;nightMode=true,appMode=default,hideBuildings=false" renderingName="default,UniRS">
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="13" renderingProperties="appMode=default,hideBuildings=false,publicTransportMode=true,tramTrainRoutes=true;nightMode=true,appMode=default,hideBuildings=false,publicTransportMode=true,tramTrainRoutes=true" renderingName="default,UniRS">
   <extensions>
       <html>                    
       <head>                   
@@ -38,7 +38,6 @@
     <extensions>
 	<maps>Russia_vladimir_asia_2</maps>
         <zoom>16</zoom>
-        <publicTransportMode>true</publicTransportMode>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -49,7 +48,6 @@
     <extensions>
 	<maps>Russia_vladimir_asia_2</maps>
         <zoom>17</zoom>
-        <publicTransportMode>true</publicTransportMode>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -60,7 +58,6 @@
     <extensions>
 	<maps>Russia_vladimir_asia_2</maps>
         <zoom>18</zoom>
-        <publicTransportMode>true</publicTransportMode>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -71,7 +68,69 @@
     <extensions>
 	<maps>Russia_vladimir_asia_2</maps>
         <zoom>16</zoom>
-        <publicTransportMode>true</publicTransportMode>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="55.7515" lon="37.6187">
+    <name>Moscow_zoom_13</name>
+    <desc>Moscow_zoom_13</desc>
+    <extensions>
+    	<maps>Russia_moscow_asia_2</maps>
+	 <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="55.7515" lon="37.6187">
+    <name>Moscow_zoom_14</name>
+    <desc>Moscow_zoom_14</desc>
+    <extensions>
+    	<maps>Russia_moscow_asia_2</maps>
+	 <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="40.7538" lon="-73.979">
+    <name>New_York_zoom_14</name>
+    <desc>New York_zoom_14</desc>
+    <extensions>
+    	<maps>Us_new-york_northamerica_2</maps>
+	 <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="59.9259" lon="30.3208">
+    <name>Saint-Petersburg_zoom_14</name>
+    <desc>Saint-Petersburg_zoom_14</desc>
+    <extensions>
+    	<maps>Russia_leningradskaya_asia_2</maps>
+	 <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="51.5188" lon="-0.1334">
+    <name>London_zoom_16</name>
+    <desc>London, zoom 16</desc>
+    <extensions>
+    	<maps>Gb_england_greater-london_europe_2</maps>
+	 <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.50099" lon="13.4003">
+    <name>Berlin_zoom_17</name>
+    <desc>Berlin, zoom 17</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+	 <zoom>17</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="50.0608" lon="14.5203">
+    <name>Praha_zoom_17</name>
+    <desc>Praha, zoom 17</desc>
+    <extensions>
+    	<maps>Czech-republic_europe_2</maps>
+	 <zoom>17</zoom>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
