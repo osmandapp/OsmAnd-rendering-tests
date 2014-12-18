@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="13" renderingProperties="appMode=default,moreDetailed=true,hideBuildings=false;nightMode=true,appMode=default,moreDetailed=true,hideBuildings=false" renderingName="default,UniRS">
+  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Default</th>            
+            <th>Default-night</th>
+            <th>UniRS</th> 
+            <th>UniRS-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="$PWD/$FILENAME">
+                  <img src="$PWD/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  
+  <wpt lat="56.13" lon="40.4063">
+    <name>Road_style_orange,Berlin_13</name>
+    <desc>Road_style_orange,Berlin 13</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>13</zoom>
+	<renderingProperties="roadStyle=orange"></renderingProperties>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+
+  
+</gpx>

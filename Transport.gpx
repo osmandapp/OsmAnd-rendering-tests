@@ -116,7 +116,7 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
-  <wpt lat="52.50099" lon="13.4003">
+  <wpt lat="52.523827" lon="13.404442">
     <name>Berlin_zoom_17</name>
     <desc>Berlin, zoom 17</desc>
     <extensions>
@@ -125,7 +125,7 @@
     </extensions>
     <category>Rendering-test</category>
   </wpt>
-  <wpt lat="50.0608" lon="14.5203">
+  <wpt lat="50.07646" lon="14.432705">
     <name>Praha_zoom_17</name>
     <desc>Praha, zoom 17</desc>
     <extensions>
