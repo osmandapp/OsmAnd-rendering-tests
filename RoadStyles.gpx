@@ -38,7 +38,88 @@
     <extensions>
     	<maps>Germany_berlin_europe_2</maps>
         <zoom>13</zoom>
-	<renderingProperties="roadStyle=orange"></renderingProperties>
+<!--	<renderingProperties="roadStyle=orange"></renderingProperties>-->
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="56.13" lon="40.4063">
+    <name>americanRoadAtlas,Berlin_13</name>
+    <desc>americanRoadAtlas,Berlin 13</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>13</zoom>
+<!--	<renderingProperties="roadStyle=americanRoadAtlas"></renderingProperties>-->
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="56.13" lon="40.4063">
+    <name>germanRoadAtlas,Berlin_13</name>
+    <desc>germanRoadAtlas,Berlin 13</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>13</zoom>
+<!--	<renderingProperties="roadStyle=germanRoadAtlas"></renderingProperties>-->
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.475273" lon="13.355347">
+    <name>Road_style_orange,Berlin_13_2</name>
+    <desc>Road_style_orange,Berlin_13_2</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>13</zoom>
+<!--	<renderingProperties="roadStyle=orange"></renderingProperties>-->
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.475273" lon="13.355347">
+    <name>americanRoadAtlas,Berlin_13_2</name>
+    <desc>americanRoadAtlas,Berlin_13_2</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>13</zoom>
+<!--	<renderingProperties="roadStyle=americanRoadAtlas"></renderingProperties>-->
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.475273" lon="13.355347">
+    <name>germanRoadAtlas,Berlin_13_2</name>
+    <desc>germanRoadAtlas,Berlin_13_2</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>13</zoom>
+<!--	<renderingProperties="roadStyle=germanRoadAtlas"></renderingProperties>-->
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="51.566555" lon="6.8801727">
+    <name>Road_style_orange,Netherlands_8</name>
+    <desc>Road_style_orange,Netherlands_8</desc>
+    <extensions>
+    	<maps>World_basemap_2</maps>
+        <zoom>8</zoom>
+<!--	<renderingProperties="roadStyle=orange"></renderingProperties>-->
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="51.566555" lon="6.8801727">
+    <name>americanRoadAtlas,Netherlands_8</name>
+    <desc>americanRoadAtlas,Netherlands_8</desc>
+    <extensions>
+    	<maps>World_basemap_2</maps>
+        <zoom>8</zoom>
+<!--	<renderingProperties="roadStyle=americanRoadAtlas"></renderingProperties>-->
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="51.566555" lon="6.8801727">
+    <name>germanRoadAtlas,Netherlands_8</name>
+    <desc>germanRoadAtlas,Netherlands_8</desc>
+    <extensions>
+    	<maps>World_basemap_2</maps>
+        <zoom>8</zoom>
+<!--	<renderingProperties="roadStyle=germanRoadAtlas"></renderingProperties>-->
     </extensions>
     <category>Rendering-test</category>
   </wpt>
