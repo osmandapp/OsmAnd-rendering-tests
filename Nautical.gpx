@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="13" renderingProperties="appMode=default;nightMode=true,appMode=default" renderingName="nautical">
+  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>Nautical</th>
+            <th>Nautical-night</th>
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="$PWD/$FILENAME">
+                  <img src="$PWD/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  
+  <wpt lat="52.391026" lon="5.243229">
+    <name>Nautical,Amsterdam_11</name>
+    <desc>Nautical,Amsterdam_11</desc>
+    <extensions>
+    	<maps>Netherlands_europe_2</maps>
+        <zoom>11</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.356857" lon="5.1206627">
+    <name>Nautical,Amsterdam_12</name>
+    <desc>Nautical,Amsterdam_12</desc>
+    <extensions>
+    	<maps>Netherlands_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.27512" lon="5.354369">
+    <name>Nautical,Amsterdam_15</name>
+    <desc>Nautical,Amsterdam_15</desc>
+    <extensions>
+    	<maps>Netherlands_europe_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.58722" lon="5.773534">
+    <name>Nautical_Netherlands_15_2</name>
+    <desc>Nautical_Netherlands_15_2</desc>
+    <extensions>
+    	<maps>Netherlands_europe_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.578487" lon="5.7599244">
+    <name>Nautical_Netherlands_17</name>
+    <desc>Nautical_Netherlands_17_2</desc>
+    <extensions>
+    	<maps>Netherlands_europe_2</maps>
+        <zoom>17</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.470646" lon="12.830024">
+    <name>Germany_Berlin_15</name>
+    <desc>Germany_Berlin_15</desc>
+    <extensions>
+    	<maps>Germany_brandenburg_europe_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.475063" lon="12.839068">
+    <name>Germany_Berlin_18</name>
+    <desc>Germany_Berlin_18</desc>
+    <extensions>
+    	<maps>Germany_brandenburg_europe_2</maps>
+        <zoom>18</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.361435" lon="12.952418">
+    <name>Germany_Berlin_13</name>
+    <desc>Germany_Berlin_13</desc>
+    <extensions>
+    	<maps>Germany_brandenburg_europe_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.44747" lon="13.176929">
+    <name>Germany_Berlin_16</name>
+    <desc>Germany_Berlin_16</desc>
+    <extensions>
+    	<maps>Germany_brandenburg_europe_2</maps>
+        <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.537918" lon="13.213987">
+    <name>Germany_Berlin_16</name>
+    <desc>Germany_Berlin_16</desc>
+    <extensions>
+    	<maps>Germany_brandenburg_europe_2</maps>
+        <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.53088" lon="13.290353">
+    <name>Germany_Berlin_16</name>
+    <desc>Germany_Berlin_16</desc>
+    <extensions>
+    	<maps>Germany_brandenburg_europe_2</maps>
+        <zoom>17</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.597168" lon="8.180701">
+    <name>Seamarks_13</name>
+    <desc>Seamarks_13</desc>
+    <extensions>
+    	<maps>World_seamarks_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.492363" lon="8.502352">
+    <name>Seamarks_15</name>
+    <desc>Seamarks_15</desc>
+    <extensions>
+    	<maps>World_seamarks_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.113277" lon="8.691388">
+    <name>Seamarks_13_2</name>
+    <desc>Seamarks_13_2</desc>
+    <extensions>
+    	<maps>World_seamarks_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.55875" lon="9.737493">
+    <name>Seamarks_13_3</name>
+    <desc>Seamarks_13_3</desc>
+    <extensions>
+    	<maps>World_seamarks_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.512634" lon="9.963399">
+    <name>Hamburg_12</name>
+    <desc>Hamburg_12</desc>
+    <extensions>
+    	<maps>Germany_hamburg_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.546127" lon="9.984229">
+    <name>Hamburg_16</name>
+    <desc>Hamburg_16</desc>
+    <extensions>
+    	<maps>Germany_hamburg_europe_2</maps>
+        <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.49843" lon="9.946067">
+    <name>Hamburg_16_2</name>
+    <desc>Hamburg_16_2</desc>
+    <extensions>
+    	<maps>Germany_hamburg_europe_2</maps>
+        <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.42724" lon="10.358794">
+    <name>Hamburg_16_3</name>
+    <desc>Hamburg_16_3</desc>
+    <extensions>
+    	<maps>Germany_schleswig-holstein_europe_2</maps>
+        <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  
+</gpx>
