@@ -277,15 +277,15 @@
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
-  <wpt lat="47.4496224" lon="11.0695639">
+<!--  <wpt lat="47.4496224" lon="11.0695639">
     <name>Winter-ski-slopes</name>
-    <desc>See some ski slopes and lifts for testing winter+ski renderer and the World_ski map</desc>
+    <desc>See some ski slopes and lifts for testing winter+ski renderer and the World_ski map</desc>-->
 	<!-- zooms and parameters: z14 -->
-    <extensions>
+<!--    <extensions>
 	<maps>Germany_bayern_europe_2, World-ski_2</maps>
 	</extensions>
     <category>Rendering-test</category>
-  </wpt>
+  </wpt>-->
   <wpt lat="0.00" lon="0.00">
     <name>0-0</name>
     <desc>lat=0 lon=0 for testing world overview</desc>
