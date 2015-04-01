@@ -133,7 +133,7 @@
     <name>Seamarks_13</name>
     <desc>Seamarks_13</desc>
     <extensions>
-    	<maps>World_seamarks_2</maps>
+    	<maps>World_seamarks_basemap_2</maps>
         <zoom>13</zoom>
     </extensions>
     <category>Rendering-test</category>
@@ -142,7 +142,7 @@
     <name>Seamarks_15</name>
     <desc>Seamarks_15</desc>
     <extensions>
-    	<maps>World_seamarks_2</maps>
+    	<maps>World_seamarks_basemap_2</maps>
         <zoom>15</zoom>
     </extensions>
     <category>Rendering-test</category>
@@ -151,7 +151,7 @@
     <name>Seamarks_13_2</name>
     <desc>Seamarks_13_2</desc>
     <extensions>
-    	<maps>World_seamarks_2</maps>
+    	<maps>World_seamarks_basemap_2</maps>
         <zoom>13</zoom>
     </extensions>
     <category>Rendering-test</category>
@@ -160,7 +160,7 @@
     <name>Seamarks_13_3</name>
     <desc>Seamarks_13_3</desc>
     <extensions>
-    	<maps>World_seamarks_2</maps>
+    	<maps>World_seamarks_basemap_2</maps>
         <zoom>13</zoom>
     </extensions>
     <category>Rendering-test</category>
