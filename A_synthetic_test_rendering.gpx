@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="12" renderingProperties="showSurfaces=true,showSurfaceGrade=true,publicTransportMode=true,showAccess=true,buildings15zoom=true,coloredBuildings=true,nightMode=false,hideBuildings=false;showSurfaces=true,showSurfaceGrade=true,publicTransportMode=true,showAccess=true,buildings15zoom=true,coloredBuildings=true,nightMode=true,hideBuildings=false" renderingName="default,UniRS">  <extensions>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="12" renderingProperties="showSurfaces=true,showSurfaceGrade=true,showAccess=true,buildings15zoom=true,coloredBuildings=true,nightMode=false,hideBuildings=false,showCycleRoutes=true,osmcTraces=true,alpineHiking=true;showSurfaces=true,showSurfaceGrade=true,showAccess=true,buildings15zoom=true,coloredBuildings=true,nightMode=true,hideBuildings=false,showCycleRoutes=true,osmcTraces=true,alpineHiking=true" renderingName="default,UniRS">  <extensions>
       <html>                    
       <head>                   
         <title>Rendering test results in HTML</title>                    
@@ -70,7 +70,7 @@
 	 <zoom>18</zoom>
 	 <maps>Synthetic_test_rendering</maps>
 	 <width>700</width>
-	 <height>12000</height>
+	 <height>15000</height>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
