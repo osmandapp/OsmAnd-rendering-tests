@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="12" renderingProperties="showSurfaces=true,showSurfaceGrade=true,showAccess=true,buildings15zoom=true,coloredBuildings=true,nightMode=false,hideBuildings=false,showCycleRoutes=true,osmcTraces=true,alpineHiking=true;showSurfaces=true,showSurfaceGrade=true,showAccess=true,buildings15zoom=true,coloredBuildings=true,nightMode=true,hideBuildings=false,showCycleRoutes=true,osmcTraces=true,alpineHiking=true" renderingName="default,UniRS">  <extensions>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="12" renderingProperties="showSurfaces=true,showSurfaceGrade=true,showAccess=true,buildings15zoom=true,coloredBuildings=true,nightMode=false,hideBuildings=false,showCycleRoutes=true,osmcTraces=true,alpineHiking=true,streetLighting=true;showSurfaces=true,showSurfaceGrade=true,showAccess=true,buildings15zoom=true,coloredBuildings=true,nightMode=true,hideBuildings=false,showCycleRoutes=true,osmcTraces=true,alpineHiking=true,streetLighting=true" renderingName="default">  <extensions>
       <html>                    
       <head>                   
         <title>Rendering test results in HTML</title>                    
@@ -10,8 +10,8 @@
         <tr>
             <th>Default</th>            
             <th>Default-night</th>
-            <th>UniRS</th> 
-            <th>UniRS-night</th>
+<!--            <th>UniRS</th> 
+            <th>UniRS-night</th>-->
         </tr>
         <ROW>
         <tr>
@@ -30,7 +30,7 @@
       </body>                    
       </html> 
   </extensions>
-  <wpt lat="45.7169" lon="36.5488">
+<!--  <wpt lat="45.7169" lon="36.5488">
     <name>Zoom_15</name>
     <desc>Zoom 15</desc>
     <extensions>
@@ -62,7 +62,7 @@
 	 <height>7800</height>
     </extensions>
     <category>Rendering-test</category>
-  </wpt>
+  </wpt>-->
   <wpt lat="45.7091" lon="36.4955">
     <name>Legend_zoom_18</name>
     <desc>Legend, zoom 18</desc>
@@ -70,7 +70,7 @@
 	 <zoom>18</zoom>
 	 <maps>Synthetic_test_rendering</maps>
 	 <width>700</width>
-	 <height>15000</height>
+	 <height>16000</height>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
