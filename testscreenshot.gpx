@@ -31,15 +31,6 @@
   </extensions>
   
   <wpt lat="52.520336" lon="13.440719">
-    <name>Berlin zoom 11</name>
-    <desc>Berlin zoom 11</desc>
-    <extensions>
-    	<maps>Germany_berlin_europe_2</maps>
-        <zoom>11</zoom>
-    </extensions>
-    <category>Rendering-test</category>
-  </wpt>
-  <wpt lat="52.520336" lon="13.440719">
     <name>Berlin zoom 12</name>
     <desc>Berlin zoom 12</desc>
     <extensions>
@@ -109,6 +100,243 @@
     <extensions>
     	<maps>Ukraine_europe_2</maps>
         <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="53.903927" lon="27.557554">
+    <name>Minsk zoom 13</name>
+    <desc>Minsk zoom 13</desc>
+    <extensions>
+    	<maps>Belarus_europe_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="53.903927" lon="27.557554">
+    <name>Minsk zoom 14</name>
+    <desc>Minsk zoom 14</desc>
+    <extensions>
+    	<maps>Belarus_europe_2</maps>
+        <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="55.75165" lon="37.61545">
+    <name>Moscow zoom 12</name>
+    <desc>Moscow zoom 12</desc>
+    <extensions>
+    	<maps>Russia_moskovskaya-oblast_asia_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="55.75165" lon="37.61545">
+    <name>Moscow zoom 14</name>
+    <desc>Moscow zoom 14</desc>
+    <extensions>
+    	<maps>Russia_moskovskaya-oblast_asia_2</maps>
+        <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="52.371243" lon="4.9041753">
+    <name>Amsterdam zoom 12</name>
+    <desc>Amsterdam zoom 12</desc>
+    <extensions>
+    	<maps>Netherlands_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.371243" lon="4.9041753">
+    <name>Amsterdam zoom 13</name>
+    <desc>Amsterdam zoom 13</desc>
+    <extensions>
+    	<maps>Netherlands_europe_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.371243" lon="4.9041753">
+    <name>Amsterdam zoom 15</name>
+    <desc>Amsterdam zoom 15</desc>
+    <extensions>
+    	<maps>Netherlands_europe_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="47.370625" lon="8.541809">
+    <name>Zurich zoom 12</name>
+    <desc>Zurich zoom 12</desc>
+    <extensions>
+    	<maps>Switzerland_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="47.370625" lon="8.541809">
+    <name>Zurich zoom 16</name>
+    <desc>Zurich zoom 16</desc>
+    <extensions>
+    	<maps>Switzerland_europe_2</maps>
+        <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="48.860813" lon="2.3472362">
+    <name>Paris zoom 12</name>
+    <desc>Paris zoom 12</desc>
+    <extensions>
+    	<maps>France_ile-de-france_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="48.860813" lon="2.3472362">
+    <name>Paris zoom 13</name>
+    <desc>Paris zoom 13</desc>
+    <extensions>
+    	<maps>France_ile-de-france_europe_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="48.138306" lon="11.594292">
+    <name>Munich zoom 12</name>
+    <desc>Munich zoom 12</desc>
+    <extensions>
+    	<maps>Germany_bayern_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="48.138306" lon="11.594292">
+    <name>Munich zoom 14</name>
+    <desc>Munich zoom 14</desc>
+    <extensions>
+    	<maps>Germany_bayern_europe_2</maps>
+        <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="42.35454" lon="-71.036804">
+    <name>Boston zoom 13</name>
+    <desc>Boston zoom 13</desc>
+    <extensions>
+    	<maps>Us_massachusetts_northamerica_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="42.35454" lon="-71.036804">
+    <name>Boston zoom 15</name>
+    <desc>Boston zoom 15</desc>
+    <extensions>
+    	<maps>Us_massachusetts_northamerica_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="40.712322" lon="-73.88209">
+    <name>New York zoom 13</name>
+    <desc>New York zoom 13</desc>
+    <extensions>
+    	<maps>Us_new-york_northamerica_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="40.714405" lon="-73.984955">
+    <name>New York zoom 15</name>
+    <desc>New York zoom 15</desc>
+    <extensions>
+    	<maps>Us_new-york_northamerica_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="37.73929" lon="-122.27386">
+    <name>San Francisco zoom 12</name>
+    <desc>San Francisco zoom 12</desc>
+    <extensions>
+    	<maps>Us_california_northamerica_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="37.779663" lon="-122.4438">
+    <name>San Francisco zoom 14</name>
+    <desc>San Francisco zoom 14</desc>
+    <extensions>
+    	<maps>Us_california_northamerica_2</maps>
+        <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="41.892303" lon="12.545811">
+    <name>Rome zoom 12</name>
+    <desc>Rome zoom 12</desc>
+    <extensions>
+    	<maps>Italy_lazio_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="41.892303" lon="12.545811">
+    <name>Rome zoom 16</name>
+    <desc>Rome zoom 16</desc>
+    <extensions>
+    	<maps>Italy_lazio_europe_2</maps>
+        <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="41.38981" lon="2.1244197">
+    <name>Barcelona zoom 13</name>
+    <desc>Barcelona zoom 13</desc>
+    <extensions>
+    	<maps>Spain_catalunya_europe_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="41.366108" lon="2.1351914">
+    <name>Barcelona zoom 15</name>
+    <desc>Barcelona zoom 15</desc>
+    <extensions>
+    	<maps>Spain_catalunya_europe_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="40.418163" lon="-3.6991496">
+    <name>Madrid zoom 12</name>
+    <desc>Madrid zoom 12</desc>
+    <extensions>
+    	<maps>Spain_madrid_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="40.418163" lon="-3.6991496">
+    <name>Madrid zoom 14</name>
+    <desc>Madrid zoom 14</desc>
+    <extensions>
+    	<maps>Spain_madrid_europe_2</maps>
+        <zoom>14</zoom>
     </extensions>
     <category>Rendering-test</category>
   </wpt>
