@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="13" renderingProperties="appMode=default,hideBuildings=false" renderingName="testscreenshot,default">
+  <extensions>
+      <html>                    
+      <head>                   
+        <title>Rendering test results in HTML</title>                    
+      </head>                                              
+      <body>                   
+      <!-- div class="image-gallery" -->   
+      <table>
+        <tr>
+            <th>testscreenshot</th>            
+            <th>Default</th> 
+        </tr>
+        <ROW>
+        <tr>
+          <ROW_ELEMENT>
+          <td>
+                <a href="$PWD/$FILENAME">
+                  <img src="$PWD/$FILENAME" width="444" height="250" alt=""/></a>
+          </td>
+          </ROW_ELEMENT>
+        </tr>
+        <tr>
+            <td colspan="4"><p>$DESCRIPTION</p></td>        
+        </tr>
+        </ROW>                    
+      </table>
+      </body>                    
+      </html> 
+  </extensions>
+  
+  <wpt lat="52.520336" lon="13.440719">
+    <name>Berlin zoom 11</name>
+    <desc>Berlin zoom 11</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>11</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.520336" lon="13.440719">
+    <name>Berlin zoom 12</name>
+    <desc>Berlin zoom 12</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.520336" lon="13.440719">
+    <name>Berlin zoom 13</name>
+    <desc>Berlin zoom 13</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="52.520336" lon="13.440719">
+    <name>Berlin zoom 14</name>
+    <desc>Berlin zoom 14</desc>
+    <extensions>
+    	<maps>Germany_berlin_europe_2</maps>
+        <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+  <wpt lat="50.448475" lon="30.559048">
+    <name>Kiev zoom 12</name>
+    <desc>Kiev zoom 12</desc>
+    <extensions>
+    	<maps>Ukraine_europe_2</maps>
+        <zoom>12</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="50.448475" lon="30.559048">
+    <name>Kiev zoom 13</name>
+    <desc>Kiev zoom 13</desc>
+    <extensions>
+    	<maps>Ukraine_europe_2</maps>
+        <zoom>13</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="50.449844" lon="30.523975">
+    <name>Kiev zoom 14</name>
+    <desc>Kiev zoom 14</desc>
+    <extensions>
+    	<maps>Ukraine_europe_2</maps>
+        <zoom>14</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="50.449844" lon="30.523975">
+    <name>Kiev zoom 15</name>
+    <desc>Kiev zoom 15</desc>
+    <extensions>
+    	<maps>Ukraine_europe_2</maps>
+        <zoom>15</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+  <wpt lat="50.449844" lon="30.523975">
+    <name>Kiev zoom 16</name>
+    <desc>Kiev zoom 16</desc>
+    <extensions>
+    	<maps>Ukraine_europe_2</maps>
+        <zoom>16</zoom>
+    </extensions>
+    <category>Rendering-test</category>
+  </wpt>
+
+
+</gpx>
