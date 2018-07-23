@@ -76,7 +76,7 @@
     <name>Beaches</name>
     <desc>See beaches and beach names in this area. Also some primary tunnels.</desc>
     <extensions>
-    	<maps>Italy_europe_2</maps>
+    	<maps>Italy_lazio_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -124,7 +124,7 @@
     <name>Military_and_forest_2</name>
     <desc>See military shader covering forest area.</desc>
     <extensions>
-    	<maps>Italy_europe_2</maps>
+    	<maps>Italy_lazio_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -140,7 +140,7 @@
     <name>Cemetery</name>
     <desc>Check cemetery shader</desc>
     <extensions>
-    	<maps>Italy_europe_2</maps>
+    	<maps>Italy_lazio_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -164,7 +164,7 @@
     <name>Lake_ferries_admin</name>
     <desc>See big lake, ferry routes, and admin boundaries on it</desc>
     <extensions>
-    	<maps>Italy_europe_2</maps>
+    	<maps>Italy_lazio_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -212,7 +212,7 @@
     <name>Highway_types</name>
     <desc>See most different highway types, check how they are rendered in different renderers, check also color dimming in Touring view car night mode</desc>
     <extensions>
-    	<maps>Italy_europe_2</maps>
+    	<maps>Italy_lazio_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -228,7 +228,7 @@
     <name>Big_city</name>
     <desc>See a big city and test overall appearance and render performance. Point chosen is likely the maximum amount of detail and worst case performance to be encountered anywhere.</desc>
     <extensions>
-    	<maps>Italy_europe_2</maps>
+    	<maps>Italy_lazio_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
