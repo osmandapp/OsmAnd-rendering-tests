@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" width="1366" height="768" zoomScale="0" zoom="13" renderingProperties="appMode=default,hideBuildings=false" renderingName="default,topo">
   <extensions>
       <html>                    
+       <meta http-equiv="Content-Security-Policy" content="default-src *; img-src * 'self' data: https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src  'self' 'unsafe-inline' *">
       <head>                   
         <title>Rendering test results in HTML</title>                    
       </head>                                              
