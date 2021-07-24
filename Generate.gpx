@@ -82,7 +82,7 @@
     <name>NR_shader_over_water</name>
     <desc>Nature reserve over water and land, make sure it is just about visible but not disturbing.</desc>
     <extensions>
-    	<maps>Spain_europe_2</maps>
+    	<maps>Spain_andalusia_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -90,7 +90,7 @@
     <name>Medieval_town_center</name>
     <desc>Documents the melting of very narrow white roads at high zooms. Crucial for (visibility vs. melting) compromise selection of road width.</desc>
     <extensions>
-    	<maps>Spain_europe_2</maps>
+    	<maps>Spain_andalusia_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
@@ -251,7 +251,7 @@
     <name>40-0</name>
     <desc>Use lat=40 lon=0 for a zoom-in journey to test successive appearance of countries, regions, roads, and more detail as you zoom in</desc>
     <extensions>
-    	<maps>World_basemap_2, Spain_europe_2</maps>
+    	<maps>World_basemap_2, Spain_andalusia_europe_2</maps>
 	</extensions>
     <category>Rendering-test</category>
   </wpt>
