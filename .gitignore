@@ -1,1 +1,4 @@
-*.obf
+opengl/cache
+opengl/mapimage
+opengl/mapdata
+opengl/maps/ind_core.cache
