@@ -63,7 +63,7 @@
     <name>Kiev zoom 12</name>
     <desc>Kiev zoom 12</desc>
     <extensions>
-    	<maps>Ukraine_europe_2</maps>
+    	<maps>Ukraine_kyiv_europe_2</maps>
         <zoom>12</zoom>
     </extensions>
     <category>Rendering-test</category>
@@ -72,7 +72,7 @@
     <name>Kiev zoom 13</name>
     <desc>Kiev zoom 13</desc>
     <extensions>
-    	<maps>Ukraine_europe_2</maps>
+    	<maps>Ukraine_kyiv_europe_2</maps>
         <zoom>13</zoom>
     </extensions>
     <category>Rendering-test</category>
@@ -81,7 +81,7 @@
     <name>Kiev zoom 14</name>
     <desc>Kiev zoom 14</desc>
     <extensions>
-    	<maps>Ukraine_europe_2</maps>
+    	<maps>Ukraine_kyiv_europe_2</maps>
         <zoom>14</zoom>
     </extensions>
     <category>Rendering-test</category>
@@ -90,7 +90,7 @@
     <name>Kiev zoom 15</name>
     <desc>Kiev zoom 15</desc>
     <extensions>
-    	<maps>Ukraine_europe_2</maps>
+    	<maps>Ukraine_kyiv_europe_2</maps>
         <zoom>15</zoom>
     </extensions>
     <category>Rendering-test</category>
