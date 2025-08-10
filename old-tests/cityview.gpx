@@ -270,7 +270,7 @@
     <name>San Francisco zoom 11</name>
     <desc>San Francisco zoom 11</desc>
     <extensions>
-    	<maps>Us_california_northamerica_2</maps>
+    	<maps>Us_california_san-francisco_northamerica_2</maps>
         <zoom>11</zoom>
     </extensions>
     <category>Rendering-test</category>
@@ -279,7 +279,7 @@
     <name>San Francisco zoom 12</name>
     <desc>San Francisco zoom 12</desc>
     <extensions>
-    	<maps>Us_california_northamerica_2</maps>
+    	<maps>Us_california_san-francisco_northamerica_2</maps>
         <zoom>12</zoom>
     </extensions>
     <category>Rendering-test</category>
@@ -288,7 +288,7 @@
     <name>San Francisco zoom 14</name>
     <desc>San Francisco zoom 14</desc>
     <extensions>
-    	<maps>Us_california_northamerica_2</maps>
+    	<maps>Us_california_san-francisco_northamerica_2</maps>
         <zoom>14</zoom>
     </extensions>
     <category>Rendering-test</category>
