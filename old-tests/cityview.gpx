@@ -99,7 +99,7 @@
     <name>Kiev zoom 16</name>
     <desc>Kiev zoom 16</desc>
     <extensions>
-    	<maps>Ukraine_europe_2</maps>
+    	<maps>Ukraine_kyiv_europe_2</maps>
         <zoom>16</zoom>
     </extensions>
     <category>Rendering-test</category>
